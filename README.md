@@ -1,49 +1,41 @@
 <div align="center">
 
-# 👋 Hola, soy Rodrigo Solórzano
+# Rodrigo Solórzano
 
-### 🧑‍💻 Desarrollador de Software en formación | Full Stack & Desarrollo Móvil
+### Desarrollador de Software en formación | Full Stack y Desarrollo Móvil
 
-![Ubicación](https://img.shields.io/badge/📍_El_Salvador-0D1117?style=for-the-badge)
-![Estudiante](https://img.shields.io/badge/🎓_Bachillerato_Técnico-Desarrollo_de_Software-1F6FEB?style=for-the-badge)
-![Estado](https://img.shields.io/badge/🟢_Abierto_a_colaborar-238636?style=for-the-badge)
+![Ubicación](https://img.shields.io/badge/El_Salvador-0D1117?style=for-the-badge)
+![Formación](https://img.shields.io/badge/Bachillerato_Técnico-Desarrollo_de_Software-1F6FEB?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Abierto_a_colaborar-238636?style=for-the-badge)
 
 </div>
 
-🎓 Estudiante de Bachillerato Técnico en Desarrollo de Software  
-🖥️ Desarrollo de aplicaciones web, backend y móviles  
-🔌 Creación y consumo de APIs REST  
-🌿 Control de versiones con Git y GitHub  
-📨 Contacto: <robertocsb13@gmail.com>  
-🚀 En constante aprendizaje  
+---
+
+## Perfil
+
+Estudiante de Bachillerato Técnico en Desarrollo de Software en El Salvador, enfocado en la construcción de aplicaciones web y móviles que resuelvan problemas reales.
+
+Mi interés se centra en el desarrollo Full Stack, el backend, el desarrollo móvil, las APIs REST y la gestión de bases de datos. Fortalezco mis conocimientos de forma continua mediante proyectos académicos y personales.
 
 ---
 
-## 🚀 Acerca de mí
+## Áreas de trabajo
 
-Soy estudiante de **Desarrollo de Software** en **El Salvador 🇸🇻**, enfocado en crear **aplicaciones web y móviles** que resuelvan problemas reales.
-
-Me interesa el desarrollo **Full Stack**, el **backend**, el **desarrollo móvil**, las **APIs REST** y el **manejo de bases de datos**. Actualmente sigo fortaleciendo mis conocimientos mediante proyectos académicos y personales.
-
----
-
-## 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de **Desarrollo de Software**
-- 🌐 Enfocado en **desarrollo web, backend y aplicaciones móviles**
-- ⚡ Experiencia con **JavaScript, C#, Java, React, React Native y Node.js**
-- 🗄️ Trabajo con bases de datos **MongoDB, Firebase, SQL Server y Oracle**
-- 🔌 Desarrollo y consumo de **APIs REST**
-- 🔐 Manejo de **autenticación**, bases de datos y servicios externos
-- 🌿 Uso **Git y GitHub** para control de versiones
-- 📈 Siempre buscando mejorar y aprender nuevas tecnologías
+- Desarrollo de aplicaciones web, backend y móviles
+- Creación y consumo de APIs REST
+- Manejo de autenticación y servicios externos
+- Bases de datos: MongoDB, Firebase, SQL Server y Oracle
+- Diseño de interfaces con Figma
+- Creación de sitios web con WordPress
+- Control de versiones con Git y GitHub
 
 ---
 
-## 🛠️ Tecnologías conocidas 🧑‍💻
+## Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,cs,java,react,nodejs,express,mongodb,firebase,git,github,postman,vscode,visualstudio,npm&perline=8" alt="Tecnologías conocidas" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,cs,java,react,nodejs,express,mongodb,firebase,git,github,postman,vscode,visualstudio,npm,figma,wordpress&perline=9" alt="Tecnologías" />
 </p>
 
 <p>
@@ -54,33 +46,33 @@ Me interesa el desarrollo **Full Stack**, el **backend**, el **desarrollo móvil
 
 ---
 
-## 🎯 Enfoque actual
+## Enfoque actual
 
-| 🔭 Construyendo | 📚 Aprendiendo | 🏆 Objetivo |
+| Construyendo | Aprendiendo | Objetivo |
 |:---|:---|:---|
-| Apps con **React**, **React Native** y **Node.js** | **APIs REST** y **bases de datos SQL** | Ser desarrollador **Full Stack** profesional |
+| Aplicaciones con **React**, **React Native** y **Node.js** | **APIs REST** y **bases de datos SQL** | Desempeñarme como desarrollador **Full Stack** profesional |
 
 ---
 
-## 🎓 Estudios
+## Formación académica
 
-🏫 **Bachillerato Técnico en Desarrollo de Software** — *En curso*  
-💻 Formación práctica en programación, bases de datos y desarrollo web y móvil  
+**Bachillerato Técnico en Desarrollo de Software** (en curso)  
+Formación práctica en programación, bases de datos y desarrollo web y móvil.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=S0lrzDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lrzDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=S0lrzDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lrzDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
 
 </div>
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
 
@@ -92,6 +84,8 @@ Me interesa el desarrollo **Full Stack**, el **backend**, el **desarrollo móvil
 
 ---
 
-> 💡 *"Cada línea de código es un paso más hacia ser mejor desarrollador."*
+<div align="center">
 
-> 🌟 *"No podemos controlar las cosas, pero sí podemos controlar nuestra actitud hacia ellas."* — Séneca
+*"No podemos controlar las cosas, pero sí podemos controlar nuestra actitud hacia ellas."* — Séneca
+
+</div>
