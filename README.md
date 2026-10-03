@@ -1,173 +1,108 @@
-Hola, soy Rodrigo Solórzano
+<!-- ================= ENCABEZADO ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Rodrigo%20Sol%C3%B3rzano&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Desarrollo%20M%C3%B3vil&descSize=20&descAlignY=58" width="100%" alt="Encabezado" />
 
-Desarrollador de Software en formación | Full Stack & Desarrollo Móvil
+<div align="center">
 
-Soy estudiante de Desarrollo de Software en El Salvador, enfocado en
-crear aplicaciones web y móviles que resuelvan problemas reales.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+de+Software+en+formaci%C3%B3n;Full+Stack+%7C+Backend+%7C+Desarrollo+M%C3%B3vil;Estudiante+de+Desarrollo+de+Software+%F0%9F%87%B8%F0%9F%87%BB" alt="Typing SVG" />
+</a>
 
-Me interesa el desarrollo Full Stack, el backend, el desarrollo
-móvil, las APIs REST y el manejo de bases de datos. Actualmente sigo
-fortaleciendo mis conocimientos mediante proyectos académicos y
-personales.
+<br/>
 
-Sobre mí
+![Ubicación](https://img.shields.io/badge/📍_El_Salvador-0D1117?style=for-the-badge)
+![Estudiante](https://img.shields.io/badge/🎓_Bachillerato_Técnico-Desarrollo_de_Software-1F6FEB?style=for-the-badge)
+![Estado](https://img.shields.io/badge/🟢_Abierto_a_colaborar-238636?style=for-the-badge)
 
-Estudiante de Desarrollo de Software
+</div>
 
-Enfocado en desarrollo web, backend y aplicaciones móviles
+---
 
-Experiencia trabajando con JavaScript, C#, React, React Native y
-Node.js
+## 👋 Hola, soy Rodrigo
 
-Trabajo con bases de datos MongoDB, Firebase, SQL Server y
-Oracle
+Soy estudiante de **Desarrollo de Software** en **El Salvador 🇸🇻**, enfocado en crear **aplicaciones web y móviles** que resuelvan problemas reales.
 
-Desarrollo y consumo de APIs REST
+Me interesa el desarrollo **Full Stack**, el **backend**, el **desarrollo móvil**, las **APIs REST** y el **manejo de bases de datos**. Actualmente sigo fortaleciendo mis conocimientos mediante proyectos académicos y personales.
 
-Manejo de autenticación, bases de datos y servicios externos
+---
 
-Uso Git y GitHub para control de versiones
+## 🧑‍💻 Sobre mí
 
-Siempre buscando mejorar mis conocimientos y aprender nuevas
-tecnologías
+- 🎓 Estudiante de **Desarrollo de Software**
+- 🌐 Enfocado en **desarrollo web, backend y aplicaciones móviles**
+- ⚡ Experiencia con **JavaScript, C#, Java, React, React Native y Node.js**
+- 🗄️ Trabajo con bases de datos **MongoDB, Firebase, SQL Server y Oracle**
+- 🔌 Desarrollo y consumo de **APIs REST**
+- 🔐 Manejo de **autenticación**, bases de datos y servicios externos
+- 🌿 Uso **Git y GitHub** para control de versiones
+- 📈 Siempre buscando mejorar y aprender nuevas tecnologías
 
-Tecnologías
+---
 
-Lenguajes
+## 🛠️ Stack tecnológico
 
+### 💻 Lenguajes y Frontend
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,html,css,cs" />{=html}
-
+  <img src="https://skillicons.dev/icons?i=js,html,css,cs,java&theme=dark" alt="Lenguajes y Frontend" />
 </p>
 
-Desarrollo Web y Móvil
-
+### 📱 Desarrollo Web y Móvil
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,reactnative,expo" />{=html}
-
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React / React Native" />
+  <br/>
+  <sub>React · React Native</sub>
 </p>
 
-Backend y Bases de Datos
-
+### ⚙️ Backend y Bases de Datos
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend" />
 </p>
 
-Bases de datos adicionales: SQL Server · Oracle
-
-Herramientas
-
+### 🗃️ Bases de datos adicionales
 <p>
-
-<img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman,vscode,npm" />{=html}
-
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-Entornos y herramientas: Visual Studio 2022 · Visual Studio Code ·
-Git · GitHub · Postman · npm
-
-Proyecto destacado
-
-SYSCOR
-
-Sistema de gestión para restaurantes orientado a facilitar diferentes
-procesos operativos.
-
-Tecnologías utilizadas:
-
-JavaScript · Node.js · Express · MongoDB · React
-
-Características principales:
-
-Gestión de menú
-
-Gestión de pedidos
-
-Combos, extras y bebidas
-
-Control del estado de mesas
-
-Gestión de comandas
-
-Panel para cocina
-
-Manejo de diferentes roles
-
-Actualmente aprendiendo
-
-En este momento estoy enfocándome en seguir fortaleciendo mis
-conocimientos en:
-
-Desarrollo Frontend con React y React Native
-
-Desarrollo Backend con Node.js y Express
-
-Diseño y consumo de APIs REST
-
-Manejo y diseño de bases de datos
-
-Autenticación y autorización
-
-Despliegue de aplicaciones
-
-Buenas prácticas y arquitectura de software
-
-Mi objetivo es mejorar constantemente mi forma de desarrollar software,
-pasando de crear proyectos académicos a construir aplicaciones cada vez
-más completas, mantenibles y útiles.
-
-Estadísticas de GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=S0lrzDev&show_icons=true&hide_border=true&include_all_commits=true" height="170"/>{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lrzDev&layout=compact&hide_border=true" height="170"/>{=html}
-
+### 🧰 Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,npm&theme=dark" alt="Herramientas" />
 </p>
 
-<p align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=S0lrzDev&hide_border=true" />{=html}
+## 🎯 Enfoque actual
 
-</p>
+| 🔭 Construyendo | 📚 Aprendiendo | 🎯 Objetivo |
+|:---|:---|:---|
+| Apps con **React**, **React Native** y **Node.js** | Arquitectura de **APIs REST** y **bases de datos SQL** | Convertirme en desarrollador **Full Stack** profesional |
 
-Objetivo profesional
+---
 
-Busco seguir desarrollándome en el área de software, participando en
-proyectos donde pueda aplicar mis conocimientos, aprender nuevas
-tecnologías y aportar soluciones reales.
+## 📊 Estadísticas de GitHub
 
-Mis principales áreas de interés son:
+<div align="center">
 
-Desarrollo Full Stack
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=S0lrzDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lrzDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes" />
 
-Desarrollo Backend
+<img src="https://streak-stats.demolab.com?user=S0lrzDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha" />
 
-Desarrollo de aplicaciones móviles
+</div>
 
-Bases de datos
+---
 
-Ingeniería de Software
+## 📫 Contacto
 
-Desarrollo de sistemas empresariales
+<div align="center">
 
-Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/S0lrzDev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertocsb13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S0lrzDev)
 
-<p align="left">
+<br/>
 
-<a href="https://github.com/S0lrzDev">{=html}
-<img src="https://img.shields.io/badge/GitHub-S0lrzDev-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}
-</a>{=html}
+*💡 "Cada línea de código es un paso más hacia ser mejor desarrollador."*
 
-</p>
+</div>
 
-<p align="center">
-
-<i>{=html}Aprendiendo, desarrollando y mejorando un proyecto a la
-vez.</i>{=html}
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="Pie" />
