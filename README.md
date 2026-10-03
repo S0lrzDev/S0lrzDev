@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <img src="https://raw.githubusercontent.com/S0lrzDev/S0lrzDev/main/banner.svg" alt="Rodrigo Solórzano - Desarrollador Full Stack y Móvil" width="100%" />
 
@@ -93,3 +93,4 @@ Me interesa el desarrollo **Full Stack**, el **backend**, el **desarrollo móvil
 > 💡 *"Cada línea de código es un paso más hacia ser mejor desarrollador."*
 
 > 🌟 *"No podemos controlar las cosas, pero sí podemos controlar nuestra actitud hacia ellas."* — Séneca
+**
