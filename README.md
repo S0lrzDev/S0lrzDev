@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Rodrigo Solórzano
-
-### 🧑‍💻 Desarrollador de Software en formación | Full Stack & Desarrollo Móvil
+<img src="./banner.svg" alt="Rodrigo Solórzano - Desarrollador Full Stack y Móvil" width="100%" />
 
 ![Ubicación](https://img.shields.io/badge/📍_El_Salvador-0D1117?style=for-the-badge)
 ![Estudiante](https://img.shields.io/badge/🎓_Bachillerato_Técnico-Desarrollo_de_Software-1F6FEB?style=for-the-badge)
