@@ -1,152 +1,173 @@
-# Hola, soy Rodrigo Solórzano
+Hola, soy Rodrigo Solórzano
 
-### Desarrollador de Software en formación | Full Stack & Desarrollo Móvil
+Desarrollador de Software en formación | Full Stack & Desarrollo Móvil
 
-Soy estudiante de **Desarrollo de Software** en El Salvador, enfocado en crear aplicaciones web y móviles que resuelvan problemas reales.
+Soy estudiante de Desarrollo de Software en El Salvador, enfocado en
+crear aplicaciones web y móviles que resuelvan problemas reales.
 
-Me interesa especialmente el desarrollo **Full Stack**, el desarrollo móvil, las APIs REST y el manejo de bases de datos. Actualmente sigo fortaleciendo mis conocimientos mientras desarrollo proyectos propios y académicos.
+Me interesa el desarrollo Full Stack, el backend, el desarrollo
+móvil, las APIs REST y el manejo de bases de datos. Actualmente sigo
+fortaleciendo mis conocimientos mediante proyectos académicos y
+personales.
 
----
+Sobre mí
 
-## Sobre mí
+Estudiante de Desarrollo de Software
 
-* Estudiante de **Desarrollo de Software**
-* Enfocado en **desarrollo web, backend y aplicaciones móviles**
-* Experiencia desarrollando proyectos con **JavaScript, React, React Native y Node.js**
-* Trabajo con bases de datos como **MongoDB y Firebase**
-* Experiencia utilizando **APIs REST, autenticación y servicios externos**
-* Uso **Git y GitHub** para control de versiones y trabajo colaborativo
-* Interesado en seguir creciendo como desarrollador y participar en proyectos reales
+Enfocado en desarrollo web, backend y aplicaciones móviles
 
----
+Experiencia trabajando con JavaScript, C#, React, React Native y
+Node.js
 
-## Tecnologías
+Trabajo con bases de datos MongoDB, Firebase, SQL Server y
+Oracle
 
-### Lenguajes
+Desarrollo y consumo de APIs REST
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
-</p>
+Manejo de autenticación, bases de datos y servicios externos
 
-### Desarrollo Web y Móvil
+Uso Git y GitHub para control de versiones
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo" />
-</p>
+Siempre buscando mejorar mis conocimientos y aprender nuevas
+tecnologías
 
-### Backend y Bases de Datos
+Tecnologías
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Herramientas
+Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
+
+<img src="https://skillicons.dev/icons?i=js,html,css,cs" />{=html}
+
 </p>
 
----
+Desarrollo Web y Móvil
 
-## Proyectos destacados
+<p>
 
-### TrustPhone
+<img src="https://skillicons.dev/icons?i=react,reactnative,expo" />{=html}
 
-Sistema web y móvil para la comercialización y gestión de teléfonos reacondicionados importados.
+</p>
 
-**Tecnologías utilizadas:**
+Backend y Bases de Datos
 
-`React Native` · `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `Cloudinary` · `Nodemailer`
+<p>
 
-**Características principales:**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />{=html}
 
-* Autenticación y autorización de usuarios
-* Roles de administrador y cliente
-* Gestión de teléfonos
-* Sistema de revisión técnica de dispositivos
-* Almacenamiento de imágenes con Cloudinary
-* Verificación de cuentas mediante correo electrónico
-* Recuperación de contraseñas
+</p>
 
----
+Bases de datos adicionales: SQL Server · Oracle
 
-### SYSCOR
+Herramientas
 
-Sistema de gestión para restaurantes orientado a facilitar diferentes procesos operativos.
+<p>
 
-**Tecnologías utilizadas:**
+<img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman,vscode,npm" />{=html}
 
-`JavaScript` · `Node.js` · `Express` · `MongoDB` · `React`
+</p>
 
-**Características principales:**
+Entornos y herramientas: Visual Studio 2022 · Visual Studio Code ·
+Git · GitHub · Postman · npm
 
-* Gestión de menú
-* Gestión de pedidos
-* Combos, extras y bebidas
-* Control del estado de mesas
-* Gestión de comandas
-* Panel para cocina
-* Manejo de diferentes roles
+Proyecto destacado
 
----
+SYSCOR
 
-## Actualmente aprendiendo
+Sistema de gestión para restaurantes orientado a facilitar diferentes
+procesos operativos.
 
-```text
-Desarrollo Frontend
-       ↓
-React / React Native
-       ↓
-Node.js / Express
-       ↓
-MongoDB / Firebase
-       ↓
-APIs REST y autenticación
-       ↓
-Despliegue y arquitectura de software
-```
+Tecnologías utilizadas:
 
-Mi objetivo es seguir mejorando tanto mis conocimientos técnicos como mi capacidad para desarrollar aplicaciones completas, mantenibles y útiles.
+JavaScript · Node.js · Express · MongoDB · React
 
----
+Características principales:
 
-## Estadísticas de GitHub
+Gestión de menú
+
+Gestión de pedidos
+
+Combos, extras y bebidas
+
+Control del estado de mesas
+
+Gestión de comandas
+
+Panel para cocina
+
+Manejo de diferentes roles
+
+Actualmente aprendiendo
+
+En este momento estoy enfocándome en seguir fortaleciendo mis
+conocimientos en:
+
+Desarrollo Frontend con React y React Native
+
+Desarrollo Backend con Node.js y Express
+
+Diseño y consumo de APIs REST
+
+Manejo y diseño de bases de datos
+
+Autenticación y autorización
+
+Despliegue de aplicaciones
+
+Buenas prácticas y arquitectura de software
+
+Mi objetivo es mejorar constantemente mi forma de desarrollar software,
+pasando de crear proyectos académicos a construir aplicaciones cada vez
+más completas, mantenibles y útiles.
+
+Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoS77&show_icons=true&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoS77&layout=compact&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=S0lrzDev&show_icons=true&hide_border=true&include_all_commits=true" height="170"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lrzDev&layout=compact&hide_border=true" height="170"/>{=html}
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RodrigoS77&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=S0lrzDev&hide_border=true" />{=html}
+
 </p>
 
----
+Objetivo profesional
 
-## Objetivo profesional
-
-Busco seguir desarrollándome profesionalmente en el área de software, participando en proyectos donde pueda aplicar mis conocimientos, aprender nuevas tecnologías y aportar soluciones reales.
+Busco seguir desarrollándome en el área de software, participando en
+proyectos donde pueda aplicar mis conocimientos, aprender nuevas
+tecnologías y aportar soluciones reales.
 
 Mis principales áreas de interés son:
 
-* Desarrollo Full Stack
-* Desarrollo Backend
-* Desarrollo de aplicaciones móviles
-* Ingeniería de Software
-* Desarrollo de sistemas empresariales
+Desarrollo Full Stack
 
----
+Desarrollo Backend
 
-## Contacto
+Desarrollo de aplicaciones móviles
+
+Bases de datos
+
+Ingeniería de Software
+
+Desarrollo de sistemas empresariales
+
+Contacto
 
 <p align="left">
-  <a href="https://github.com/RodrigoS77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/S0lrzDev">{=html}
+<img src="https://img.shields.io/badge/GitHub-S0lrzDev-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}
+</a>{=html}
+
 </p>
 
----
-
 <p align="center">
-  <i>Aprendiendo, desarrollando y mejorando un proyecto a la vez.</i>
+
+<i>{=html}Aprendiendo, desarrollando y mejorando un proyecto a la
+vez.</i>{=html}
+
 </p>
